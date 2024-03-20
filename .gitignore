@@ -1,0 +1,5 @@
+*.jpg
+.venv
+*.jpeg
+images
+*.ipynb
