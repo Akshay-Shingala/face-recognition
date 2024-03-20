@@ -15,7 +15,6 @@ def upload_images():
     image_list = [file1, file2, file3, file4]
     image_list = [f for f in image_list if face_count(f) == 1]
     
-    
     # # Url  place of image 
     # url='https://cdn.zeebiz.com/sites/default/files/2023/10/05/263573-untitled-design-2023-10-05t091024122.jpg'
     # url="https://yudiz-python-s3.s3.ap-south-1.amazonaws.com/python-projects/InstaAI/deforum_motion_effect/amitabh_bachchan.jpeg"
